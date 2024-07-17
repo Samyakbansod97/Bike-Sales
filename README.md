@@ -8,7 +8,7 @@ Excel (Sum & Functions, Pivot Tables, and Dashboard)
 
 ## Project Files
 
-[Project files]([link/to/your/project/files](https://github.com/Samyakbansod97/Bike-Sales))
+[Project files](https://github.com/Samyakbansod97/Bike-Sales)
 
 ## Project Steps
 
